@@ -1,0 +1,20 @@
+{
+  "name": "resizer",
+  "version": "0.0.0",
+  "author": "Conner Petzold",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cpetzold/resizer.git"
+  },
+  "dependencies": {
+    "connect": "*",
+    "request": "*",
+    "gm": "*"
+  },
+  "license": "MIT"
+}
